@@ -1,12 +1,12 @@
-# Ender 5 S1 Modpack
+# 3D Printables
 
-This repository contains some of my mods and custom software I created for the _Ender 5 S1_ 3d printer.
+This repository is a collectin of some of my 3d printable models.
 
-## Contents
+## Models
 
 1. generic [lighting](./Lighting/v1/README.md) for all 20x20 mm aluminum profiles
 
-# License & Contributing
+# License
 
 You are free to use and modify anything. See the [License](LICENSE) for details.
 
