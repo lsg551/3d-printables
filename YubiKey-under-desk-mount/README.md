@@ -1,6 +1,6 @@
 # Double USB Type-C Under-Desk Mount for YubiKey 5C NFC
 
-I have multiple machines and a few YubiKeys around. After a while of manually reaching the backend of each machine, inserting YubiKeys and pulling them out, I became tired.
+I have multiple machines and a few YubiKeys around. After a while of manually reaching the back of each machine, inserting YubiKeys and pulling them out, I became tired.
 I was looking for a solution where I can 1) quickly insert the keys, 2) to all machines at the same time, and 3) not needing to reach the back of my PC.
 There are some vertical USB Type-C stands, but they are rather ugly and if possible, I prefer the YubiKeys to not be visible.
 
@@ -63,7 +63,7 @@ It uses very short USB-C extensions cables (female to male) with screw holes. I 
 - **Cables**:
     - 2x "USB C extender Female to Male with screw mount" are screwed into the mount
         - My cable came with USB 3.1 gen 2 (10 Gbit/s)   
-        - I orderd them as a pack from amazon: https://www.amazon.de/dp/B0D8SGMGT3
+        - I ordered them as a pack from amazon: https://www.amazon.de/dp/B0D8SGMGT3
         - These are only 20 cm in length, so you will need extender cables to your machine
 - **Screws**:
     - 4x M3x16 countersunk / flat head wood screws to attach the mount to the underside of your desk
