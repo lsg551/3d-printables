@@ -4,7 +4,8 @@ This repository is a collectin of some of my 3d printable models.
 
 ## Models
 
-1. generic [lighting](./Lighting/v1/README.md) for all 20x20 mm aluminum profiles
+1. [Lighting](./Lighting/v1/README.md) for Ender 5 S1 printers with 20x20 mm aluminum profiles
+2. [YubiKey 5C NFC under-desk mount](./YubiKey-under-desk-mount/README.md)
 
 # License
 
