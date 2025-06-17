@@ -8,7 +8,53 @@ This is a quickly printed mount that can be attached to the underside of your de
 It uses very short USB-C extensions cables (female to male) with screw holes. I ordered them from amazon and they are originally intended to be screwd into PCI cover plates.
 
 
+<p align="center">
+    <img
+        src="./assets/assembled_2.png"
+        alt="Mounted YubiKey assembled #2"
+        title="Mounted YubiKey assembled #2"
+        width="250"
+        height="250"
+    />
+    <img
+        src="./assets/mounted_1.png"
+        alt="Mounted YubiKey under desk #1"
+        title="Mounted YubiKey under desk #1"
+        width="250"
+        height="250"
+    />
+    <img
+        src="./assets/mounted_2.png"
+        alt="Mounted YubiKey under desk #2"
+        title="Mounted YubiKey under desk #2"
+        width="250"
+        height="250"
+    />
+</p>
+<p align="center">
+    <img
+        src="./assets/assembled_1.png"
+        alt="Mounted YubiKey assembled #1"
+        title="Mounted YubiKey assembled #1"
+        width="250"
+        height="250"
+    />
+    <img
+        src="./assets/mounted_3.png"
+        alt="Mounted YubiKey under desk #3"
+        title="Mounted YubiKey under desk #3"
+        width="250"
+        height="250"
+    />
+    <img
+        src="./assets/usb_extension_cable.jpg"
+        alt="UBS C extension cables"
+        title="USB C extension cables orderd from amazon, originally for PCI cover plates"
+        width="250"
+        height="250"
+    />
 
+</p>
 
 ## Printing Instructions & BOM
 
@@ -28,5 +74,5 @@ It uses very short USB-C extensions cables (female to male) with screw holes. I 
  
 > [!WARNING]
 > The USB port cutout will have a _very tight_ fit with the M2.5x12 cylinder heads screwed in. I.e., no tolerance at all.
-> My YubiKey 5C NFC fits perfectly. However, it leaves minimal abrasion marks at the tip of the YubiKey because the fit is so narrow.
+> My YubiKey 5C NFC fits perfectly. However, it leaves minimal [abrasion marks at the tip of the YubiKey](./assets/abrasive_marks.png) because the fit is so narrow.
 > Be aware that, if your M2.5x12 cylinder screw head is larger than ~4.3 mm, it probably won't fit.
