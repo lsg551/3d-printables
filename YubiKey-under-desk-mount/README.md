@@ -79,3 +79,7 @@ It uses very short USB-C extensions cables (female to male) with screw holes. I 
 > The USB port cutout will have a _very tight_ fit with the M2.5x12 cylinder heads screwed in. I.e., no tolerance at all.
 > My YubiKey 5C NFC fits perfectly. However, it leaves minimal [abrasion marks at the tip of the YubiKey](./assets/abrasive_marks.png) because the fit is so narrow.
 > Be aware that, if your M2.5x12 cylinder screw head is larger than ~4.3 mm, it probably won't fit.
+
+
+> [!WARNING]
+> **Before drilling holes in your desk**: The holes for the M3 screws are slightly angled by 10˚. This reduces the size of the pocket holes in the sides of the mount. It worked quite well for me to drill at a slight angle. Alternatively, you can also use a printed template
