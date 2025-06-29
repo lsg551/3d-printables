@@ -70,7 +70,7 @@ A 3d printed USB-C under-desk mount for various USB-C devices, such as YubiKeys,
 - **Supports**: none, print as is (I only used a small tree support for the clamp, which goes inside the mount)
 - **Cables**: 2x "USB C extender Female to Male with screw mount" are screwed into the mount. My cable came with USB 3.1 gen 2 (10 Gbit/s). I orderd them as a pack from amazon: https://www.amazon.de/dp/B0D8SGMGT3. These are only 20 cm in length, so you will need extender cables to your machine.
 - **Screws**:
-    - **4x M3x16** countersunk / flat head wood screws to attach the mount to the underside of your desk. The outer diameter of the screw head is 5.5 mm. The mount is designed to fit countersunk screws with exactly this diameter or less. Obviously, you can use any screw length you like, as long as it's countersunk, the screw head diameter is ≤ 5.5 mm and it should be M3.
+    - **4x M3x16** countersunk / flat head wood screws to attach the mount to the underside of your desk. The outer diameter of the screw head is 5.5 mm. The mount is designed with a counterbore to fit countersunk screws with exactly this diameter or less. Obviously, you can use any screw length you like, as long as it's countersunk, the screw head diameter is ≤ 5.5 mm and it should be M3.
     - *all of the same type:* cylinder screw head with internal hex
         - **2x M2.5x20** – one for each bottom-facing thread of the USB-C extension cables to secure them in the mount
         - **2x M2.5x16** – one for each top-facing thread of the USB-C extension cables to secure them in the mount through the clamp
@@ -88,3 +88,7 @@ A 3d printed USB-C under-desk mount for various USB-C devices, such as YubiKeys,
 1. Lastly, screw the top-facing threads of the USB-C extension cables with the **M2.5x16** screws through the clamp into the mount.
 
 The mount can now be attached to the underside of your desk with the **M3x16** screws.
+
+
+> [!WARNING]
+> **Before drilling holes in your desk**: The holes for the M3 screws are slightly angled by 10˚. This reduces the size of the pocket holes in the sides of the mount. It worked quite well for me to drill at a slight angle. Alternatively, you can also use a printed template
