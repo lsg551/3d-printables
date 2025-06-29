@@ -83,7 +83,7 @@ A 3d printed USB-C under-desk mount for various USB-C devices, such as YubiKeys,
 **Assembly**:
 1. Print the mount and the clamp.
 1. On the inside at the base of the mount is a horizontal beam with two holes for the **M2.5x20** screws. Pre-screw these (don't worry if they are not straight, the holes are intentionally slightly angled).
-1. Insert both USB-C extension cables into the cutouts in the mount and screw them in place with the previously pre-screwed **M2.5x20** screws. You will need an allen key. If everything is aligned correctly, the 20mm screws should be prefectly flush with the beam.
+1. Insert both USB-C extension cables into the cutouts in the mount and screw them in place with the previously pre-screwed **M2.5x20** screws. You will need an allen key. If everything is aligned correctly, the 20mm screws should be perfectly flush with the beam.
 1. Pre-screw the clamp with the **M2.5x8** screw. Then insert the clamp into the mount between the two USB-C extension cables. Eventually tighten the clamp with the pre-screwed **M2.5x8** into the mount.
 1. Lastly, screw the top-facing threads of the USB-C extension cables with the **M2.5x16** screws through the clamp into the mount.
 
