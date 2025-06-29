@@ -1,5 +1,8 @@
 # Double USB Type-C Under-Desk Mount for YubiKey 5C NFC
 
+> [!TIP]
+> v2 of this version can be found [here](../YubiKey-under-desk-mount/README.md)
+
 I have multiple machines and a few YubiKeys around. After a while of manually reaching the back of each machine, inserting YubiKeys and pulling them out, I became tired.
 I was looking for a solution where I can 1) quickly insert the keys, 2) to all machines at the same time, and 3) not needing to reach the back of my PC.
 There are some vertical USB Type-C stands, but they are rather ugly and if possible, I prefer the YubiKeys to not be visible.
